@@ -1,2 +1,1 @@
-# Diseaase-prediction
-Diseases Prediction using ML
+# Disease-Prediction
